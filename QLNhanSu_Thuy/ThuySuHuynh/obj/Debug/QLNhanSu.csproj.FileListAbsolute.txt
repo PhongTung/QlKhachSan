@@ -1,0 +1,10 @@
+C:\Users\VuThuy\Documents\Visual Studio 2015\QLNhanSu_Thuy\ThuySuHuynh\bin\Debug\ThuySuHuynh.exe.config
+C:\Users\VuThuy\Documents\Visual Studio 2015\QLNhanSu_Thuy\ThuySuHuynh\obj\Debug\QLNhanSu.csprojResolveAssemblyReference.cache
+C:\Users\VuThuy\Documents\Visual Studio 2015\QLNhanSu_Thuy\ThuySuHuynh\obj\Debug\QlNhanSu.frmChucVu.resources
+C:\Users\VuThuy\Documents\Visual Studio 2015\QLNhanSu_Thuy\ThuySuHuynh\obj\Debug\ThuySuHuynh.Properties.Resources.resources
+C:\Users\VuThuy\Documents\Visual Studio 2015\QLNhanSu_Thuy\ThuySuHuynh\obj\Debug\QlNhanSu.View.frmDamNhiem.resources
+C:\Users\VuThuy\Documents\Visual Studio 2015\QLNhanSu_Thuy\ThuySuHuynh\obj\Debug\QLNhanSu.csproj.GenerateResource.Cache
+C:\Users\VuThuy\Documents\Visual Studio 2015\QLNhanSu_Thuy\ThuySuHuynh\bin\Debug\ThuySuHuynh.exe
+C:\Users\VuThuy\Documents\Visual Studio 2015\QLNhanSu_Thuy\ThuySuHuynh\bin\Debug\ThuySuHuynh.pdb
+C:\Users\VuThuy\Documents\Visual Studio 2015\QLNhanSu_Thuy\ThuySuHuynh\obj\Debug\ThuySuHuynh.exe
+C:\Users\VuThuy\Documents\Visual Studio 2015\QLNhanSu_Thuy\ThuySuHuynh\obj\Debug\ThuySuHuynh.pdb
