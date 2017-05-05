@@ -1,0 +1,2 @@
+C:\Users\VuThuy\Documents\Visual Studio 2015\ThuySuHuynh\ThuySuHuynh\bin\Debug\ThuySuHuynh.exe.config
+D:\demo2\Thuc_Tap_Nhom\ThuySuHuynh\ThuySuHuynh\bin\Debug\ThuySuHuynh.exe.config
